@@ -1,5 +1,3 @@
-Etapa 04 - banco de dados
-
 create table turmas (
 ID_turmas integer PRIMARY KEY AUTOINCREMENT,
 CODIGO turmas varchar (4) UNIQUE,
